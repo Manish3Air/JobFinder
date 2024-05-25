@@ -1,0 +1,18 @@
+body{
+    background-color: #eaf1f5;
+}
+#header{
+    position: fixed;
+    width: 100%;
+    padding: 20px 40px;
+    background: #fff;
+    box-shadow:  10px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.container .navbar-brand span{
+    color: orange;
+}
+
+
+
+
